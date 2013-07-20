@@ -3,6 +3,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Taylor Pennock :: taylorpennock.com</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
@@ -121,7 +122,7 @@
       <!-- Jumbotron -->
       <div class="jumbotron">
         <h1>Welcome!</h1>
-        <p class="lead">This site is a work in progress. I plan on adding my portfolio, sample downloads, services I offer, as well as, more information about myself. In the meantime, please feel free to check out my: </p>
+        <p class="lead">This site is a work in progress. I plan on adding my portfolio, sample downloads, freelance services, and a liitle bit about myself. In the meantime, please feel free to check out my: </p>
         <a class="btn btn-large btn-success" href="http://www.linkedin.com/in/taylorpennock/">LinkedIn Profile</a>
       </div>
 
